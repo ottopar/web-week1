@@ -9,6 +9,7 @@
 .link {
   color: rgb(0, 235, 244);
   text-decoration: none;
+  font-size:xx-large;
 }
 
 .link:hover {
@@ -18,7 +19,6 @@
 .image {
   border: 5px solid #555;
   border-radius: 100px;
-
 }
 
 .tablestyle {
