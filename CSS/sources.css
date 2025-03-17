@@ -1,0 +1,33 @@
+.p {
+  font-family: "Brush Script MT", cursive;
+}
+
+.h1 {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.link {
+  color: rgb(0, 235, 244);
+  text-decoration: none;
+}
+
+.link:hover {
+  color: red;
+}
+
+.image {
+  border: 5px solid #555;
+  border-radius: 100px;
+
+}
+
+.tablestyle {
+  tr:nth-child(even) {
+    background-color: blueviolet;
+  };
+  border-collapse: collapse;
+}
+
+.ula {
+  list-style-type: square;
+}
